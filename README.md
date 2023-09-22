@@ -4,7 +4,9 @@ The designed steering system aims to guide a mobile object through a pre-establi
 
 
 ![Image 1](Img/Resultados2.png)
+
 ![Image 2](Img/Resultados.png)
+
 In image 1 and 2 you can see the route to be taken by the closest robot given a request
 
 ![View of the master control computer](Img/Resultados3.png)
